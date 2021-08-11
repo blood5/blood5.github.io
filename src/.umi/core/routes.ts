@@ -11,9 +11,14 @@ export function getRoutes() {
     "component": require('@/layouts/index.js').default,
     "routes": [
       {
-        "path": "/examples",
+        "path": "/example.html",
         "exact": true,
-        "component": require('@/pages/examples.js').default
+        "component": require('@/pages/example.js').default
+      },
+      {
+        "path": "/index.html",
+        "exact": true,
+        "component": require('@/pages/index.js').default
       },
       {
         "path": "/",
@@ -21,7 +26,7 @@ export function getRoutes() {
         "component": require('@/pages/index.js').default
       },
       {
-        "path": "/page2",
+        "path": "/page2.html",
         "exact": true,
         "component": require('@/pages/page2.js').default
       }

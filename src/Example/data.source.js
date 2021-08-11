@@ -130,6 +130,20 @@ export const Content50DataSource = {
           content: { children: "Ant Motion" },
         },
       },
+      {
+        name: "block8",
+        className: "block",
+        md: 6,
+        xs: 24,
+        children: {
+          wrapper: { className: "content5-block-content" },
+          img: {
+            children:
+              "https://zos.alipayobjects.com/rmsportal/faKjZtrmIbwJvVR.svg",
+          },
+          content: { children: "Ant Motion" },
+        },
+      },
     ],
   },
 };
