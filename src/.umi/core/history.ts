@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { createBrowserHistory, History } from '/Users/merlot/Documents/blood/blood4/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
+import { createBrowserHistory, History } from '/Users/merlot/Documents/CG/Blood/blood5.github.io/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
 
 let options = {
   "basename": "/"

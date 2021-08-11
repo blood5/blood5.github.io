@@ -1,6 +1,6 @@
 // @ts-nocheck
 import React from 'react';
-import { ApplyPluginsType } from '/Users/merlot/Documents/blood/blood4/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
+import { ApplyPluginsType } from '/Users/merlot/Documents/CG/Blood/blood5.github.io/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
 import * as umiExports from './umiExports';
 import { plugin } from './plugin';
 
@@ -11,9 +11,9 @@ export function getRoutes() {
     "component": require('@/layouts/index.js').default,
     "routes": [
       {
-        "path": "/example",
+        "path": "/examples",
         "exact": true,
-        "component": require('@/pages/example.js').default
+        "component": require('@/pages/examples.js').default
       },
       {
         "path": "/",

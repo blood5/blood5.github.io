@@ -4,8 +4,8 @@ import '@@/core/devScripts';
 import { plugin } from './core/plugin';
 import './core/pluginRegister';
 import { createHistory } from './core/history';
-import { ApplyPluginsType } from '/Users/merlot/Documents/blood/blood4/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
-import { renderClient } from '/Users/merlot/Documents/blood/blood4/node_modules/_@umijs_renderer-react@3.5.15@@umijs/renderer-react';
+import { ApplyPluginsType } from '/Users/merlot/Documents/CG/Blood/blood5.github.io/node_modules/_@umijs_runtime@3.5.15@@umijs/runtime';
+import { renderClient } from '/Users/merlot/Documents/CG/Blood/blood5.github.io/node_modules/_@umijs_renderer-react@3.5.15@@umijs/renderer-react';
 import { getRoutes } from './core/routes';
 
 

@@ -1,6 +1,6 @@
 // @ts-nocheck
 import React from 'react';
-import initialState from '/Users/merlot/Documents/blood/blood4/src/.umi/plugin-initial-state/models/initialState';
+import initialState from '/Users/merlot/Documents/CG/Blood/blood5.github.io/src/.umi/plugin-initial-state/models/initialState';
 
 // @ts-ignore
 import Dispatcher from './helpers/dispatcher';
