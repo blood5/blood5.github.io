@@ -1,4 +1,4 @@
-import Example from "../examples";
+import Example from "../Example";
 
 export default function () {
   return <Example />;
