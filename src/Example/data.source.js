@@ -24,12 +24,12 @@ export const Content50DataSource = {
         md: 6,
         xs: 24,
         children: {
-          href: "https://blood5.github.io/examples/test/index.html",
+          href: "https://blood5.github.io/examples/hellocad/docs/index.html",
           wrapper: { className: "content5-block-content" },
           img: {
-            children: "https://blood5.github.io/examples/test/example.png",
+            children: "https://blood5.github.io/examples/hellocad/hellocad.png",
           },
-          content: { children: "Hello World" },
+          content: { children: "Hello CAD" },
         },
       },
       {
